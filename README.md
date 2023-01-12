@@ -42,12 +42,4 @@ I'm a 22 years old developer. My focus are bioinformatics, making applications f
 
 
 
-### MY GITHUB STATS
-
-</div>
-
-<div align="center">
-  <a href="https://github.com/thaismatosg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaismatosg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
 </div>
