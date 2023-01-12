@@ -1,15 +1,14 @@
 Hi, my name is Thais 👋
 ==========================
 
-Software Developer
+Development Sciences Informatics 
 -----------------------------
 
-I'm a 22 years old developer. My focus are back-end development, making applications for day a day.
+I'm a 22 years old developer. My focus are bioinformatics, making applications for day a day.
 
 
 * 🌍  I'm living in São Paulo, Brazil;
 * ✉️  You can contact me at [thaismatosg@hotmail.com](mailto:thaismatosg@hotmail.com);
-* 🧠  I'm learning Advanced Javascript and C++ programming language;
 * 🤝  I'm open to collaborating on interesting projects as a developer.
 
 
