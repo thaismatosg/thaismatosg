@@ -1,7 +1,7 @@
 Hi, my name is Thais 👋
 ==========================
 
-Development Sciences Informatics :bar_chart: :microscope:
+Development Sciences Informatics :bar_chart::microscope:
 -----------------------------
 
 I'm a 22 years old developer. My focus are bioinformatics, making applications for day a day.
