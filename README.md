@@ -1,10 +1,7 @@
 Hi, my name is Thais 👋
 ==========================
 
-Development Sciences Informatics :bar_chart::microscope:
------------------------------
-
-I'm a 22 years old developer. My focus are bioinformatics, making applications for day a day.
+I'm a 22 years old developer. My focus are software developer and bioinformatics, making applications for day a day.
 
 
 * 🌍  I'm living in São Paulo, Brazil;
