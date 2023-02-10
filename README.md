@@ -1,5 +1,5 @@
-Hi there 👋
-==========================
+# Hi there 👋
+
 
 I'm a 22 years old developer. My focus are software developer and bioinformatics, making applications for day a day.
 
