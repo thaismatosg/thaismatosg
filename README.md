@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-I'm a 22 years old developer. My focus are software developer and bioinformatics, making applications for day a day.
+I'm a 22 years old developer. My focus are software developer, making applications for day a day.
 
 
 * 🌍  I'm living in São Paulo, Brazil;
